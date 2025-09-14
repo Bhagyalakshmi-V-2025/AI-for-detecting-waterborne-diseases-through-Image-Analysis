@@ -15,3 +15,8 @@ the model's effectiveness in real-world scenarios. The proposed system holds
 strong potential for public health surveillance, particularly in underserved or 
 remote areas where rapid diagnosis and response are critical to preventing the 
 spread of waterborne diseases. 
+
+I have uploaded the Yolov5 ipynb file in zip format since the file size was very big . when you click on that zip file , it takes you to a page called 'view raw' . click on that to download zip . Once downloaded.
+please run it in colab . 
+Click on this link to download the EMDS-7 dataset : https://figshare.com/articles/dataset/EMDS-7_DataSet/16869571?file=31186899
+The published paper for the above project is uploaded as well.
